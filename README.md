@@ -4,9 +4,7 @@ http://stackoverflow.com/questions/41259575/why-didnt-have-data-when-the-first-e
 https://www.nihongo-pro.com/free-jlpt-n5-quizzes
 
 // Sample for crawler data
-/**
- * 
- */
+<pre>
 package tsb.trinhnx.download;
 
 import java.io.File;
@@ -225,3 +223,4 @@ public class VozCrawler {
         }
     }
 }
+</pre>
